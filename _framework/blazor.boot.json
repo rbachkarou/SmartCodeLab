@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SmartCodeLab",
   "resources": {
-    "hash": "sha256-/rF5FbRnLTEJpjuIyyUofCIxQyryYvFZdvMMDoKCTkM=",
+    "hash": "sha256-yd9Kd+WJByZcPfenwJgUp9iUXmr8XLkMs3pcoYEkvA0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.25vatkk1e3.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.akqz85au1m.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -34,7 +34,7 @@
       "System.Text.Json.h6jruwiato.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.lrjpag45lw.wasm": "System.Private.CoreLib.wasm",
-      "SmartCodeLab.9t0wrc1j5w.wasm": "SmartCodeLab.wasm",
+      "SmartCodeLab.5kvt8aweld.wasm": "SmartCodeLab.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.50iqa8w3ys.js": "dotnet.native.js",
       "dotnet.native.pk43x8e436.wasm": "dotnet.native.wasm",
@@ -91,7 +91,7 @@
       "System.Text.Encodings.Web.yosxql6jn5.wasm": "sha256-fgKqJw0Vkd2XqqB/Aj8WLXZK9/DPfEX9FcsrTzQTRFU=",
       "System.Text.Json.h6jruwiato.wasm": "sha256-J2h8It3KEE7eVU+nR3IyBWHVxVMv0KvA7MTuDKKmYtc=",
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "sha256-wn7A6lyHyUX6ncCXE68PB0fgNpaI8xcNLGHt7qHCuQo=",
-      "SmartCodeLab.9t0wrc1j5w.wasm": "sha256-47hyhUllWJSvtPaVrn6Nl8ZDh1+L4o+03EWB5IKhTJ0="
+      "SmartCodeLab.5kvt8aweld.wasm": "sha256-+8qQLYSRz9rIQ41mMzNTRIVvHr73pO6rIjykox8rquQ="
     }
   },
   "cacheBootResources": true,
